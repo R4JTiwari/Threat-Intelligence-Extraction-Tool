@@ -1,0 +1,5 @@
+# Requirements for Threat Intelligence Extraction Tool
+
+streamlit==1.25.0 
+spacy==3.6.0
+PyPDF2==3.0.1
